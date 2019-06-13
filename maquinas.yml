@@ -1,0 +1,14 @@
+- name: debian-vagrant
+  cpus: 1
+  memory: 1024
+  hostname: debian-vagrant
+  ip: 172.25.1.91
+  sistema: debian/stretch64
+
+- name: slackware-vagrant
+  cpus: 1
+  memory: 1024
+  hostname: slackware-vagrant
+  ip: 172.25.1.92
+  sistema: ratfactor/slackware
+
